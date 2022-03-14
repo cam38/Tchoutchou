@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>railCBD.PNG</file>
+        <file>railCBG.PNG</file>
+        <file>railCHD.PNG</file>
+        <file>railCHG.PNG</file>
+        <file>railH.PNG</file>
+        <file>railV.PNG</file>
+        <file>railVide.png</file>
+        <file>train.png</file>
+        <file>gagne.gif</file>
+        <file>drapeau.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
